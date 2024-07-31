@@ -22,7 +22,7 @@ jobs:
     - name: Install Gradle
       uses: gradle/gradle-build-action@v3
       with:
-        gradle-version: '8.1'
+        gradle-version: '8.9'
 
     - name: Build with Gradle
       run: ./gradlew build
