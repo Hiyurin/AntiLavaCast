@@ -1,0 +1,7 @@
+name: AntiLavaCast
+version: ${version}
+main: com.hiyurin.antilavacast.AntiLavaCast
+api-version: 1.20
+authors: [ Hiyurin]
+folia-supported: true
+description: Stops lava casting
