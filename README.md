@@ -10,7 +10,7 @@ If you are using [Folia](https://papermc.io/software/folia), ensure that your Fo
 ## Installation
 - Requirement: ``java 21``
 
-1. Download: Download the plugin's JAR file from the [releases page](https://github.com/Hiyurin/AntiLavaCast/releases) or [Hangar](https://hangar.papermc.io/Hiyurin/AntiLavaCast).
+1. Download: Download the plugin's JAR file from the [actions page](https://github.com/Hiyurin/AntiLavaCast/actions) or [Hangar](https://hangar.papermc.io/Hiyurin/AntiLavaCast).
 2. Place JAR file: Place the JAR file in the ``plugins`` folder of your PaperMC or Folia Minecraft server.
 3. Restart: Restart the server.
 
