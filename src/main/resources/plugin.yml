@@ -2,6 +2,13 @@ name: AntiLavaCast
 version: ${version}
 main: com.hiyurin.antilavacast.AntiLavaCast
 api-version: 1.20
-authors: [ Hiyurin]
+authors: [ Hiyurin ]
 folia-supported: true
-description: Stops lava casting
+description: Prevent the creation of cobblestone from lava, thus stopping the lavacasting technique in the game
+
+commands:
+  antilavacast:
+    description: Toggles the AntiLavaCast plugin on or off.
+    usage: /<command> <on|off>
+    permission: antilavacast.command
+    permission-message: You do not have permission to use this command.
