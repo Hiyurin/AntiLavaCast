@@ -1,3 +1,5 @@
+![Banner](https://repobeats.axiom.co/api/embed/a681660d33b84ec87d042a61f0a867674fc06a0e.svg "Repobeats analytics image")
+
 # AntiLavaCast Plugin
 
 AntiLavaCast is a Minecraft plugin designed to prevent the creation of cobblestone from lava, thus stopping the lavacasting technique in the game.
